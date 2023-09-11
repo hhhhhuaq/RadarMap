@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/366b9a3f3612aaf070572edbad0fbb72.jpg</file>
+        <file>image/755740.jpg</file>
+        <file>image/CaliDrone.jpeg</file>
+        <file>image/f616cba5d28d53cda6f63419819afbdc.jpg</file>
+        <file>image/NomalDrone.jpeg</file>
+        <file>image/R-C.d925598d7f6dd839965cea26490bd23d.jpeg</file>
+        <file>image/RadioSource.png</file>
+        <file>image/RemoteControl.png</file>
+        <file>image/UnknownDrone.png</file>
+    </qresource>
+</RCC>
